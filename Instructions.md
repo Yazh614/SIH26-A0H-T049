@@ -70,12 +70,12 @@ For **every team member**, provide:
 
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   | Yazhidanya V            |  CB.EN.U4ECE26159      |     Female      |   B.Tech ECE                    |
+|    Member 2     | Bikkina Sri Aditya      |  CB.EN.U4ECE26110      |     Male        |   B.Tech ECE                    |  
+|    Member 3     | Bharanidharan A         |  CB.EN.U4ECE26110      |     Male        |   B.Tech ECE                    |  
+|    Member 4     | Vedanth V               |  CB.EN.U4ECE26110      |     Male        |   B.Tech ECE                    |
+|    Member 5     | Shivangi Madhusoodhanan |  CB.EN.U4ECE26110      |     Female      |   B.Tech ECE                    |  
+|    Member 6     | Anwesha Chakraborty     |  CB.EN.U4ECE26106      |     Female      |   B.Tech ECE                    |                                    
 
 > Update the table according to the actual number of members in your team.
 
@@ -85,7 +85,7 @@ Provide the details of the faculty mentor assigned to your team.
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |Sabarish Narayanan B | Assistant professor   | B.Tech ECE              | nb_sabarish@cb.amrita.edu|                    |
 | Industry       |                     |                       |                         |                          |
 
 Ensure that the mentor details are accurate and match the information provided by the SIH coordination team.
@@ -96,11 +96,20 @@ The selected problem statement must be clearly documented.
 
 Provide:
 
-* **Problem Statement ID**
-* **Problem Statement Title**
-* **Problem Statement Description** (if required)
-* **Theme / Category**
-* **Ministry / Organization**, wherever applicable
+* **Problem Statement ID** - SIH26076
+* **Problem Statement Title** - Development of personalized homepage for 'Mausam' mobile application
+* **Problem Statement Description** - • Health-conscious users Highlight Air Quality Index (AQI), pollen count, UV index, and humidity levels to help users manage allergies, asthma, or skin sensitivity.
+• Outdoor fitness enthusiasts Show sunrise/sunset times, 'best running hours,' wind speed, and heat alerts to optimize workout planning.
+• Beachgoers & surfers Display sea conditions, tide timings, wave height, and water temperature for safe and enjoyable beach activities.
+• Travelers Provide quick access to saved destinations, severe weather alerts for flights, and packing suggestions (e.g., 'Carry a raincoat in London').
+• Parents & families Emphasize school commute conditions, rain alerts, and severe weather warnings to plan daily routines.
+• Agriculture & gardeners Show soil moisture, rainfall predictions, frost alerts, and seasonal planting guidance.
+• Commuters Integrate weather with traffic updates, visibility conditions, and alerts for storms or fog that affect travel.
+• Event planners Offer extended forecasts, probability of rain, and 'comfort index' for outdoor gatherings or weddings.
+
+* **Theme / Category** - Smart Automation/software
+  
+* **Ministry / Organization** -  Ministry of Earth Sciences (MoES)
 
 Example:
 
